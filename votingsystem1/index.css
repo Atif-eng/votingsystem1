@@ -1,0 +1,64 @@
+.btns {
+    display: flex;
+    margin-top: 40px;
+    gap: 170px;
+    justify-content: center;
+}
+
+    .btns a{
+     background-color: #4CAF50;
+      padding: 25px;
+
+    }
+
+.buttons-wrapper h1{
+    text-align: center;
+    color: green;
+
+}
+/* .admin1 h1{
+    text-align: center;
+} */
+
+/* .container {
+    max-width: 750px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+} */
+.admin4 div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.admin_class{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.admin_class img{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+
+form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-2{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
